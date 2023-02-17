@@ -1,3 +1,3 @@
 echo "hello,world"
 echo "github workflow"
-echo "testing"
+echo "testing 2"
